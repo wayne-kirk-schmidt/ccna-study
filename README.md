@@ -191,6 +191,30 @@ This mirrors how experienced engineers actually work.
 
 ---
 
+---
+
+## CCNA Exam Preparation (Optional)
+
+This repository is designed first and foremost to teach **how to think about networks**.
+
+For learners who want a **structured, time-bound CCNA exam path**, an optional
+exam-preparation layer is provided in a separate directory.
+
+The exam prep materials:
+- prioritize topic importance and exam weight
+- define a 6-week execution schedule
+- enforce strict “know it cold” mastery gates
+- capture common CCNA exam traps and pitfalls
+- reference existing core subject files (no duplication)
+
+Link:  
+[examprep/README.md](examprep/README.md)
+
+This layer is optional and intentionally isolated to avoid diluting the core
+thinking-first philosophy of the repository.
+
+---
+
 ## Scope and Growth
 
 This repository is:
